@@ -1,0 +1,6 @@
+llama-index
+openai
+pypdf
+python-dotenv
+llama-index-embeddings-huggingface
+llama-index-embeddings-huggingface-api
