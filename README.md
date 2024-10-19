@@ -20,7 +20,7 @@ Here’s how the project is organized for maintainability and ease of use:
 |── your_script.py              # 🎬 Entry point script to initialize and run the query engine.
 |
 |── README.md                   # 📖 Documentation file.
-
+```
 
 ## ✨ Features
 🗂️ Document Loader: Automatically loads all files from the data/ directory and prepares them for querying.
