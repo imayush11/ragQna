@@ -42,8 +42,11 @@ The engine uses documents from the data/ folder to create an index, allowing use
 ```
 git clone https://github.com/imayush11/rag-qna.git
 ```
+
 ```
 cd rag-qna
+```
+
 ```
 pip install -r requirements.txt
 ```
